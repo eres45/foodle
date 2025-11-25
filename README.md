@@ -44,6 +44,19 @@ graph TD
     I -.-> K
 ```
 
+### 📸 App Screenshots
+
+<p align="center">
+  <img src="app_images/image.png" width="200" alt="Screen 1" />
+  <img src="app_images/image copy.png" width="200" alt="Screen 2" />
+  <img src="app_images/image copy 2.png" width="200" alt="Screen 3" />
+</p>
+<p align="center">
+  <img src="app_images/image copy 3.png" width="200" alt="Screen 4" />
+  <img src="app_images/image copy 4.png" width="200" alt="Screen 5" />
+  <img src="app_images/image copy 5.png" width="200" alt="Screen 6" />
+</p>
+
 ---
 
 ## 🚀 Key Features
